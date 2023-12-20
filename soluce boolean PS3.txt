@@ -1,0 +1,15 @@
+Incompatibilité boolean "isPossessing"
+
+A faire :
+
+Créer une liste de booléens
+	Booléens de la liste = objets en "isPossessed"
+
+Ajouter Booléen "oneIsPossessed"
+
+Boucle qui parcours la liste 
+
+Si un booléen de la liste == true
+
+oneIsPossessed = true 
+	Else oneIsPossessed = false 
